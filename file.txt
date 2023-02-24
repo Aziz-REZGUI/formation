@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hi moslem
-=======
-hi 
->>>>>>> parent of 81d8a84 (Revert "added hi")
